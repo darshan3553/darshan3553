@@ -5,9 +5,8 @@
 ---
 
 ## 🚀 About Me  
-- 🎓 Pursuing **Computer Science & Software Engineering**  
+- 🎓 Pursuing **Computer Science & Engineering**  
 - 💻 Passionate about **Full-Stack Development, AI, and Software Architecture**  
-- 🌱 Currently learning **Machine Learning & Cloud Deployment**  
 - ✨ Motto: *"Code, Learn, Share, Repeat."*  
 
 ---
@@ -22,7 +21,7 @@
 🗄️ MySQL | MongoDB | NoSQL  
 
 **Tools & Platforms**  
-⚙️ Git/GitHub | Docker | StarUML | Selenium | OneDrive | VSCode  
+⚙️ Git/GitHub | StarUML | Selenium | OneDrive | VSCode  
 
 ---
 
