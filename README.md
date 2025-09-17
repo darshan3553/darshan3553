@@ -1,45 +1,26 @@
-# 👋 Hey there, I'm Darshan!  
+## 👋 Darshan
 
-💡 A curious **Computer Science student** and passionate **developer** who loves exploring new technologies, solving real-world problems, and building impactful projects.  
-
----
-
-## 🚀 About Me  
-- 🎓 Pursuing **Computer Science & Engineering**  
-- 💻 Passionate about **Full-Stack Development, AI, and Software Architecture**  
-- ✨ Motto: *"Code, Learn, Share, Repeat."*  
+**Student | Computer Science Engineer**
 
 ---
 
-## 🛠️ Tech Stack  
-
-**Languages & Frameworks**  
-🔹 Python | C | C++ | Java | JavaScript | Dart  
-🔹 React | Next.js | Flask | Node.js | TailwindCSS  
-
-**Databases**  
-🗄️ MySQL | MongoDB | NoSQL  
-
-**Tools & Platforms**  
-⚙️ Git/GitHub | StarUML | Selenium | OneDrive | VSCode  
+### 🎓 About
+I am a Computer Science student with a strong foundation in development. My focus is on creating scalable applications.
 
 ---
 
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=darshan3553&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=darshan3553&theme=tokyonight" alt="GitHub Streak" height="160"/>
-</p>
+### 🛠️ Tech Stack
+| Languages & Frameworks | Databases | Tools & Platforms |
+|---|---|---|
+| Python, C, C++, Java, JavaScript, Dart, React, Next.js, Flask, Node.js, TailwindCSS | MySQL, MongoDB, NoSQL | Git/GitHub, StarUML, Selenium, OneDrive, VSCode |
 
 ---
 
-## 🌐 Connect with Me  
+### 🌐 Connect
 
-📫 **Email:** [darshangoje@gmail.com](mailto:darshangoje@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/darshan-hangoje-0344b1258](https://www.linkedin.com/in/darshan-hangoje-0344b1258)  
-🐙 **GitHub:** [github.com/darshan3553](https://github.com/darshan3553)  
+* **Email:** darshangoje@gmail.com
+* **LinkedIn:** [darshan-hangoje-0344b1258](www.linkedin.com/in/darshan-hangoje-0344b1258)
 
 ---
 
-✨ *"Building projects, learning daily, and sharing knowledge to grow together."* 🚀
+> ✨ "Code, Learn, Share, Repeat."
