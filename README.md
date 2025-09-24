@@ -16,10 +16,14 @@ I am a Computer Science student with a strong foundation in development. My focu
 
 ---
 
-### 🌐 Connect
+### 📊 GitHub Stats
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=darshan3553&layout=compact&theme=radical)
 
-* **Email:** darshangoje@gmail.com
-* **LinkedIn:** [darshan-hangoje-0344b1258](www.linkedin.com/in/darshan-hangoje-0344b1258)
+---
+
+### 🌐 Connect
+* **Email:** darshangoje@gmail.com  
+* **LinkedIn:** [darshan-hangoje-0344b1258](https://www.linkedin.com/in/darshan-hangoje-0344b1258)
 
 ---
 
